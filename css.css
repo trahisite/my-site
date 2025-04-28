@@ -259,19 +259,23 @@
           font-size: 25px;
           font-weight: bolder;
         }
+        
+        .hover-box {
+          display: none !important;
+      }
+          
+
 
         .hero1{
           height: 600px;
         }
-        
-      }
 
-
-
+    
       * {
         margin: 0;
         padding: 0;
         box-sizing: border-box;
+    }
     }
 
 
